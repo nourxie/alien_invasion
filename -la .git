@@ -1,0 +1,25 @@
+[33m29e0c3aff04f2aef3e48cd372719fb8f8b9b3319[m[33m ([m[1;36mHEAD[m[33m)[m Fixed _ship_hit
+[33m2cacd73f11c2866b5da81926d836b1045d9bfa5a[m Game resets if aliens reach bottom screen
+[33mb12f24706d25bb3a0aa6af333cf94cee01eaf197[m Game resets if aliens hit ship
+[33me86ff6db586aa17ba297245ad30d00602bc9ec62[m Created game stats and transferred score to there
+[33m3c45c819ea99721ab81802577a699a14d36f5621[m ship detects when its been hit
+[33m30c76f464ce220f74c6956a90b9c25f99a225eef[m Aliens can b shot down and score recorded
+[33m2ac7d95c038c421e6ce9f3ff9c2dfb5b53fd25e7[m aliens move in a fleet down and back and forth
+[33m9f7fbada867ba36e0fc4ab0c0554953a50ca7d8a[m Aliens move back and forth across screen together
+[33mb61ecf56a7c1611742b09587dfadc5230d40309b[m Added vertical rows of aliens
+[33mc1b38dd86a1960640ef93cca062e2f267c0cf34d[m Made one line of aliens
+[33mbff87d2507d2375189bf422db0bda8a9d431efe4[m Added alien randomization
+[33m5f218f827a263f0a3f74a0726f2660cad6605a40[m Created the alien class
+[33m0572591b8492dba4f0d14907f996e9d6a76d3bc3[m Refactored code and gave bullets limit
+[33m97b4d6dae3c11fc985ddeea32b9941a6abb9abfe[m Added bullet file, bullets can be shot
+[33md40cbb7a378491f8e236c4b2c95c2d5ce63bb946[m Made shootable bullets
+[33m3901c7531d44a40e074ca60138943cde263150ab[m Starting bullets
+[33m88d55b146b351b62d66f9988e04750117102dd0b[m Fixed ship speed settings
+[33mc39d64c31907b61199ac3abbc4df099289e4a2c4[m Fixed simba's movement
+[33medf8b765e0d0385f71c099f455d2dae623d1c185[m Ship movement
+[33m9cc3e3687d96e436af67b678659067bfea8f0992[m Fixed refactoring + redid adding ship
+[33m44d85c3a26b96b8b86a200708b0d098c6f104c2b[m Created ship
+[33m267295655be7a9c2b90ef8c08f78506f6beb256b[m Adding the ship + editing image formatting
+[33m8a187925ae6fbd6dee8a631147cb202dbf20af56[m Added settings into main code
+[33m09685628bf9cc3065541e1ec9787f7430641c566[m[33m ([m[1;32mmaster[m[33m)[m Added background image and settings module
+[33m0d5e8b23e57b6921e9c38d3c7332c97431a9e3c6[m Started project
